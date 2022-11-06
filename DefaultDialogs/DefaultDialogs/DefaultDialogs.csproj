@@ -3,6 +3,21 @@
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <UseWPF>true</UseWPF>
+    <Authors>Joachim Schiller</Authors>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+    <PackageLicenseFile>LICENSE.md</PackageLicenseFile>
+    <RepositoryUrl>https://github.com/Joschiller/DefaultDialogs</RepositoryUrl>
+    <NeutralLanguage>en</NeutralLanguage>
+    <Description>A utility WPF window for WPF projects that allows the easy creation of dialogs with several configurable buttons</Description>
+    <PackageTags>WPF;Dialog</PackageTags>
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\..\LICENSE.md">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+  </ItemGroup>
 
 </Project>
