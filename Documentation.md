@@ -60,6 +60,7 @@ public Color NegativeColor
 public Color NeutralColor
 public Color PositiveColor
 public Color CancelButtonBackground
+public Thickness ButtonMargin
 ```
 
 ### 2.3 SuccessMode (enum)

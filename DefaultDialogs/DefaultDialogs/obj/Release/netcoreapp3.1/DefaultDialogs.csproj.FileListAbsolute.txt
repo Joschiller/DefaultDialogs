@@ -12,3 +12,4 @@ C:\Users\josch\Desktop\Programming_Projects\PROGRAMMING_PROJECTS\DefaultDialogs\
 C:\Users\josch\Desktop\Programming_Projects\PROGRAMMING_PROJECTS\DefaultDialogs\DefaultDialogs\DefaultDialogs\obj\Release\netcoreapp3.1\DefaultDialogs.csproj.CoreCompileInputs.cache
 C:\Users\josch\Desktop\Programming_Projects\PROGRAMMING_PROJECTS\DefaultDialogs\DefaultDialogs\DefaultDialogs\obj\Release\netcoreapp3.1\DefaultDialogs.dll
 C:\Users\josch\Desktop\Programming_Projects\PROGRAMMING_PROJECTS\DefaultDialogs\DefaultDialogs\DefaultDialogs\obj\Release\netcoreapp3.1\DefaultDialogs.pdb
+C:\Users\josch\Desktop\Programming_Projects\PROGRAMMING_PROJECTS\DefaultDialogs\DefaultDialogs\DefaultDialogs\obj\Release\netcoreapp3.1\DefaultDialogs.csproj.AssemblyReference.cache
