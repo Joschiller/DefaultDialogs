@@ -1,0 +1,13 @@
+C:\Users\josch\Desktop\Programming_Projects\PROGRAMMING_PROJECTS\DefaultDialogs\DefaultDialogs\DefaultDialogs\bin\Debug\DefaultDialogs.dll
+C:\Users\josch\Desktop\Programming_Projects\PROGRAMMING_PROJECTS\DefaultDialogs\DefaultDialogs\DefaultDialogs\bin\Debug\DefaultDialogs.pdb
+C:\Users\josch\Desktop\Programming_Projects\PROGRAMMING_PROJECTS\DefaultDialogs\DefaultDialogs\DefaultDialogs\obj\Debug\DefaultDialogs.csproj.AssemblyReference.cache
+C:\Users\josch\Desktop\Programming_Projects\PROGRAMMING_PROJECTS\DefaultDialogs\DefaultDialogs\DefaultDialogs\obj\Debug\GeneralButtonBasedDialog.g.cs
+C:\Users\josch\Desktop\Programming_Projects\PROGRAMMING_PROJECTS\DefaultDialogs\DefaultDialogs\DefaultDialogs\obj\Debug\DefaultDialogs_MarkupCompile.cache
+C:\Users\josch\Desktop\Programming_Projects\PROGRAMMING_PROJECTS\DefaultDialogs\DefaultDialogs\DefaultDialogs\obj\Debug\DefaultDialogs_MarkupCompile.lref
+C:\Users\josch\Desktop\Programming_Projects\PROGRAMMING_PROJECTS\DefaultDialogs\DefaultDialogs\DefaultDialogs\obj\Debug\GeneralButtonBasedDialog.baml
+C:\Users\josch\Desktop\Programming_Projects\PROGRAMMING_PROJECTS\DefaultDialogs\DefaultDialogs\DefaultDialogs\obj\Debug\DefaultDialogs.g.resources
+C:\Users\josch\Desktop\Programming_Projects\PROGRAMMING_PROJECTS\DefaultDialogs\DefaultDialogs\DefaultDialogs\obj\Debug\DefaultDialogs.Properties.Resources.resources
+C:\Users\josch\Desktop\Programming_Projects\PROGRAMMING_PROJECTS\DefaultDialogs\DefaultDialogs\DefaultDialogs\obj\Debug\DefaultDialogs.csproj.GenerateResource.cache
+C:\Users\josch\Desktop\Programming_Projects\PROGRAMMING_PROJECTS\DefaultDialogs\DefaultDialogs\DefaultDialogs\obj\Debug\DefaultDialogs.csproj.CoreCompileInputs.cache
+C:\Users\josch\Desktop\Programming_Projects\PROGRAMMING_PROJECTS\DefaultDialogs\DefaultDialogs\DefaultDialogs\obj\Debug\DefaultDialogs.dll
+C:\Users\josch\Desktop\Programming_Projects\PROGRAMMING_PROJECTS\DefaultDialogs\DefaultDialogs\DefaultDialogs\obj\Debug\DefaultDialogs.pdb
