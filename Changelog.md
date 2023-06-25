@@ -6,3 +6,7 @@
 - setting button actions or results
 - showing dialogs waiting for acitons or results
 - customizing the dialog style using additional properties
+
+## Version 1.0.1
+
+- fixed nuget package build
